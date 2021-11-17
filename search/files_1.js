@@ -1,16 +1,13 @@
 var searchData=
 [
-  ['bayes_5ftheorem_2ecpp_2742',['bayes_theorem.cpp',['../d5/d67/bayes__theorem_8cpp.html',1,'']]],
-  ['binary_5fexponent_2ecpp_2743',['binary_exponent.cpp',['../de/dcf/binary__exponent_8cpp.html',1,'']]],
-  ['binary_5fsearch_2ecpp_2744',['binary_search.cpp',['../df/dd5/binary__search_8cpp.html',1,'']]],
-  ['binary_5fsearch_5ftree_2ecpp_2745',['binary_search_tree.cpp',['../d3/d26/binary__search__tree_8cpp.html',1,'']]],
-  ['binaryheap_2ecpp_2746',['binaryheap.cpp',['../de/dc3/binaryheap_8cpp.html',1,'']]],
-  ['binomial_5fdist_2ecpp_2747',['binomial_dist.cpp',['../d6/db0/binomial__dist_8cpp.html',1,'']]],
-  ['bisection_5fmethod_2ecpp_2748',['bisection_method.cpp',['../d7/d6a/bisection__method_8cpp.html',1,'']]],
-  ['bogo_5fsort_2ecpp_2749',['bogo_sort.cpp',['../d5/ddb/bogo__sort_8cpp.html',1,'']]],
-  ['breadth_5ffirst_5fsearch_2ecpp_2750',['breadth_first_search.cpp',['../df/d82/breadth__first__search_8cpp.html',1,'']]],
-  ['brent_5fmethod_5fextrema_2ecpp_2751',['brent_method_extrema.cpp',['../db/d01/brent__method__extrema_8cpp.html',1,'']]],
-  ['brute_5fforce_5fstring_5fsearching_2ecpp_2752',['brute_force_string_searching.cpp',['../d3/d7d/brute__force__string__searching_8cpp.html',1,'']]],
-  ['bubble_5fsort_2ecpp_2753',['bubble_sort.cpp',['../d8/d13/bubble__sort_8cpp.html',1,'']]],
-  ['buzz_5fnumber_2ecpp_2754',['buzz_number.cpp',['../d1/d76/buzz__number_8cpp.html',1,'']]]
+  ['a1z26_5fcipher_2ecpp_0',['a1z26_cipher.cpp',['../de/db6/a1z26__cipher_8cpp.html',1,'']]],
+  ['abbreviation_2ecpp_1',['abbreviation.cpp',['../d7/d73/abbreviation_8cpp.html',1,'']]],
+  ['adaline_5flearning_2ecpp_2',['adaline_learning.cpp',['../d5/db0/adaline__learning_8cpp.html',1,'']]],
+  ['addition_5frule_2ecpp_3',['addition_rule.cpp',['../d6/d4a/addition__rule_8cpp.html',1,'']]],
+  ['area_2ecpp_4',['area.cpp',['../dc/d82/area_8cpp.html',1,'']]],
+  ['armstrong_5fnumber_2ecpp_5',['armstrong_number.cpp',['../d4/d5d/math_2armstrong__number_8cpp.html',1,'']]],
+  ['array_5fleft_5frotation_2ecpp_6',['array_left_rotation.cpp',['../d9/d14/array__left__rotation_8cpp.html',1,'']]],
+  ['array_5fright_5frotation_2ecpp_7',['array_right_rotation.cpp',['../d6/d57/array__right__rotation_8cpp.html',1,'']]],
+  ['atbash_5fcipher_2ecpp_8',['atbash_cipher.cpp',['../dc/dfb/atbash__cipher_8cpp.html',1,'']]],
+  ['avltree_2ecpp_9',['avltree.cpp',['../d8/dee/avltree_8cpp.html',1,'']]]
 ];

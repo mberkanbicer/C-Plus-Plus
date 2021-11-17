@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['range_5fqueries_2721',['range_queries',['../dd/d69/namespacerange__queries.html',1,'']]]
+  ['operations_5fon_5fdatastructures_0',['operations_on_datastructures',['../da/d6d/namespaceoperations__on__datastructures.html',1,'']]],
+  ['others_1',['others',['../d0/d6f/namespaceothers.html',1,'']]]
 ];

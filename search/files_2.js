@@ -1,10 +1,20 @@
 var searchData=
 [
-  ['caesar_5fcipher_2ecpp_2755',['caesar_cipher.cpp',['../d6/d2c/caesar__cipher_8cpp.html',1,'']]],
-  ['chaining_2ecpp_2756',['chaining.cpp',['../d9/d92/chaining_8cpp.html',1,'']]],
-  ['check_5famicable_5fpair_2ecpp_2757',['check_amicable_pair.cpp',['../d5/df6/check__amicable__pair_8cpp.html',1,'']]],
-  ['check_5fprime_2ecpp_2758',['check_prime.cpp',['../db/d93/check__prime_8cpp.html',1,'']]],
-  ['comb_5fsort_2ecpp_2759',['comb_sort.cpp',['../d9/dfd/comb__sort_8cpp.html',1,'']]],
-  ['complex_5fnumbers_2ecpp_2760',['complex_numbers.cpp',['../d5/d67/complex__numbers_8cpp.html',1,'']]],
-  ['connected_5fcomponents_2ecpp_2761',['connected_components.cpp',['../df/ddd/connected__components_8cpp.html',1,'']]]
+  ['babylonian_5fmethod_2ecpp_0',['babylonian_method.cpp',['../dc/d9c/babylonian__method_8cpp.html',1,'']]],
+  ['bayes_5ftheorem_2ecpp_1',['bayes_theorem.cpp',['../d5/d67/bayes__theorem_8cpp.html',1,'']]],
+  ['bidirectional_5fdijkstra_2ecpp_2',['bidirectional_dijkstra.cpp',['../d7/d07/bidirectional__dijkstra_8cpp.html',1,'']]],
+  ['binary_5fexponent_2ecpp_3',['binary_exponent.cpp',['../de/dcf/binary__exponent_8cpp.html',1,'']]],
+  ['binary_5fsearch_2ecpp_4',['binary_search.cpp',['../df/dd5/binary__search_8cpp.html',1,'']]],
+  ['binary_5fsearch_5ftree_2ecpp_5',['binary_search_tree.cpp',['../d3/d26/binary__search__tree_8cpp.html',1,'']]],
+  ['binary_5fsearch_5ftree2_2ecpp_6',['binary_search_tree2.cpp',['../df/d42/binary__search__tree2_8cpp.html',1,'']]],
+  ['binaryheap_2ecpp_7',['binaryheap.cpp',['../de/dc3/binaryheap_8cpp.html',1,'']]],
+  ['binomial_5fcalculate_2ecpp_8',['binomial_calculate.cpp',['../d8/db1/binomial__calculate_8cpp.html',1,'']]],
+  ['binomial_5fdist_2ecpp_9',['binomial_dist.cpp',['../d6/db0/binomial__dist_8cpp.html',1,'']]],
+  ['bisection_5fmethod_2ecpp_10',['bisection_method.cpp',['../d7/d6a/bisection__method_8cpp.html',1,'']]],
+  ['bogo_5fsort_2ecpp_11',['bogo_sort.cpp',['../d5/ddb/bogo__sort_8cpp.html',1,'']]],
+  ['breadth_5ffirst_5fsearch_2ecpp_12',['breadth_first_search.cpp',['../df/d82/breadth__first__search_8cpp.html',1,'']]],
+  ['brent_5fmethod_5fextrema_2ecpp_13',['brent_method_extrema.cpp',['../db/d01/brent__method__extrema_8cpp.html',1,'']]],
+  ['brute_5fforce_5fstring_5fsearching_2ecpp_14',['brute_force_string_searching.cpp',['../d3/d7d/brute__force__string__searching_8cpp.html',1,'']]],
+  ['bubble_5fsort_2ecpp_15',['bubble_sort.cpp',['../d8/d13/bubble__sort_8cpp.html',1,'']]],
+  ['buzz_5fnumber_2ecpp_16',['buzz_number.cpp',['../d1/d76/buzz__number_8cpp.html',1,'']]]
 ];
